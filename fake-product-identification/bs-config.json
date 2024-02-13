@@ -1,0 +1,8 @@
+{
+	"server": {
+		"baseDir": ["./src", "./public"],
+		"routes": {
+			"/contracts": "./build/contracts"
+		}
+	}
+}

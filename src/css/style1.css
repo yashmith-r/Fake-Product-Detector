@@ -1,0 +1,213 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: #fff;
+    font-size: 16px;
+
+    background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+
+
+  }
+ .navbar-nav
+ {
+    position: absolute;
+    margin-left: 30%;
+    margin-top: 15%;
+    width: 40%;
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 27px;
+    align-items: center;
+    justify-content: space-evenly;
+ }
+
+ .nav-man{
+    width:50%;
+    margin-left: 26%;
+ }
+ .nav-item
+ {
+    margin-left:3%;
+ }
+
+ .nav-link{
+    text-decoration: none;
+ }
+
+ .navbar-brand {
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.2;
+    margin-bottom: 30px;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 36%;
+}
+.navbar-brand span {
+      display: block;
+      font-size: 12px;
+      font-weight: 500;
+      color: rgba(0, 0, 0, 0.3); 
+      margin-left: 31%;
+}
+.navbar-brand:hover, .navbar-brand:focus {
+      color: #000;
+}
+
+.container{
+    margin-top: 32%;
+    margin-left: 20%;
+    position: absolute;
+}
+
+.form-control{
+    outline: none;
+    background: transparent;
+    border: none;
+    border-bottom: 0.5px solid black;
+    font-size: 18px;
+}
+label,input
+{
+    padding-top:10%;
+    display: flex;
+}
+
+.qr-code{
+    position: absolute;
+    margin-top: 52%;
+    margin-left: 40%;
+}
+
+.btn-register{
+    margin-left: 42%;
+    margin-top: 2%;
+    width: 18%;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border: none;
+    font-size: 15px;
+    margin-bottom: 5%;
+}
+
+#register1 ,#register2{
+    position: absolute;
+    margin-top: 6%;
+    margin-left: -8%;
+    padding: 1.5%;
+}
+
+center{
+    border: solid;
+    width: 300px;
+    margin-left: 33%;
+    padding: 3%;
+}
+
+.form-group{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-group >input{
+    margin-left: 5%;
+}
+
+.con-qs{
+    margin-top: 45%;
+
+}
+
+#register2{
+    padding: 1.5%;
+    width: 30%;
+    margin-left: 150%;
+    margin-top: 15%;
+   
+}
+
+.sellers-qs{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5% 3%;
+}
+
+.con-qs2{
+    width: 200%;
+    height: 40%;
+}
+
+.con-qs > hr{
+    width: 200%;
+    border-color: black;
+}
+
+.con-qs3{
+    width: 70%;
+    margin-left: 33%;
+    margin-top: 5%;
+}
+
+.con-qp{
+    margin-top: 45%;
+}
+
+#register3{
+    margin-top: 14%;
+    margin-left: 4%;
+}
+
+.con-qp2{
+    margin-top: -1%;
+    width: 120%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.con-qp2 >hr{
+    width: 100%;
+    border-color: black;
+}
+
+.sellers-qp{
+    padding: 1% 3%;
+}
+
+.con-cp{
+    margin-left: 45%;
+}
+
+.vv{
+    margin-left: 47%;
+}
+
+.con-vp{
+    margin-top: 50%;
+}
+
+.kk{
+    margin-left: 20%;
+}
+
+.ll{
+    margin-left: 20%;
+}
+
+#register4{
+    margin-left: 45%;
+    width: 25%;
+}
+
+.con-vp{
+    margin-top: 65%;
+}
+
+
+.pp{
+    margin-bottom: 10%;
+    margin-top: 7%;
+}
